@@ -1,0 +1,14 @@
+{
+  "name": "express-basic-application",
+  "version": "1.0.0",
+  "description": "Basic Node App with Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Naseel Niyas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
